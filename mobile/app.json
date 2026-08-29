@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Smrithi Sathi",
+    "slug": "smrithi-sathi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "smrithisathi",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "in.smrithisathi.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#2E6458"
+      },
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications",
+      "expo-image-picker"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c6fc2290-845e-48ea-8d8a-3641207e2302"
+      }
+    },
+    "owner": "hrishabh029s-team"
+  }
+}

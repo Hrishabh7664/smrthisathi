@@ -1,0 +1,6 @@
+{
+  "name": "Smrithi Sathi",
+  "description": "Cognitive support and engagement application for patients with dementia or memory challenges and their caregivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
